@@ -9,7 +9,7 @@ an invalid output.
 
 
 ## Description
-`"./Report.pdf"   : It is the report of the project.`
+`"./RE_ALign.pdf"   : It is the report of the project.`
 
 `"./code"         : It contains "main.py" and "ExportInstructionsToCSV.java" that were used for the experiment.`
 
