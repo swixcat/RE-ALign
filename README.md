@@ -13,7 +13,7 @@ an invalid output.
 
 `"./code"         : It contains "main.py" and "ExportInstructionsToCSV.java" that were used for the experiment.`
 
-`"./csv_bin"      : It contains all the csv the files generated from the binaries used for the experiment.`
+`"./csv_bin"      : It contains all the csv the files generated from the binaries used for the experiment. (Only files less than 3 MB were uploaded, size pb)`
 
 `"./result_dir"   : It contains all the plots generated from the experiment in "png" format.`
 
