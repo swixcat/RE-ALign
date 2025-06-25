@@ -133,7 +133,7 @@ def linear_sweep(data, ground_truth, start_offset, base_address): # performs a l
 def pick_random_offset(binary_size, ground_truth):
     while True:
         offset = random.randint(0, binary_size - 1)
-        if offset not in ground_truth:
+        if offset not in ground_truth:         # an offset that is not already in the ground truth for obvious reason
             return offset
 
 def process_file(bin_path, csv_path):
